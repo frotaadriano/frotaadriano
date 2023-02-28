@@ -14,7 +14,7 @@
 -  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ Business Management from Ibmec
 -  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ Graduated in IT Governance from PUC Minas
  
- 🎙️ English: B2
+ 🎙️ English: B2+
 
  💼 More than 14 years of experience in companies: 
 -  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ International IT Services and IT Consulting
@@ -32,7 +32,8 @@
 -  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 04+ years NoSql databases 
 -  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 02+ years React / Angular
 -  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 02+ years AWS ( SQS, SNS, S3 ) 
--  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 02+ years Nodejs 
+-  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 02+ years Nodejs
+-    ➾ 01- years Python 
  
  Experience in a lot of tools, methodologies, concepts, strategies and patterns 
  Like Jira, Confluence, Azure Devops, Jenkins, GiT, Scrum, kambam, Clean code, Design Patterns, Event-driven etc
