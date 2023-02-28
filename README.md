@@ -33,8 +33,8 @@
 -  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 02+ years React / Angular
 -  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 02+ years AWS ( SQS, SNS, S3 ) 
 -  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 02+ years Nodejs
--    ➾ 01- years Python 
- 
+-  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 01- years Python
+
  Experience in a lot of tools, methodologies, concepts, strategies and patterns 
  Like Jira, Confluence, Azure Devops, Jenkins, GiT, Scrum, kambam, Clean code, Design Patterns, Event-driven etc
 
