@@ -1,6 +1,5 @@
 
-![Logo](https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gPtw76v46IWpwt8keAQyduKAcKmjA5swwFbTrDKaFCF-TvliN8ILxuWWo7Ooqbd647-FxRkI76b3wPjs_d5GK5x9GrC0w=w1920-h952)
-
+![Logo](https://www.canva.com/design/DAFTzzcqPU8/iuukJDRDLlsya5BLbxdO_Q/watch?utm_content=DAFTzzcqPU8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 - 👋 Hi, I’m @frotaadriano
 - 👀 I’m interested in Software Developing
