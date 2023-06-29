@@ -50,7 +50,11 @@
  ... more in my linkedin : https://www.linkedin.com/in/frotaadriano/
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frotaadriano&show_icons=true&theme=radical)
-   
+
+
+   [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=frotaadriano&theme=radical)](https://github.com/frotaadriano/github-readme-stats)
+
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frotaadriano&hide_progress=true&theme=radical)
 <!---
 frotaadriano/frotaadriano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
