@@ -49,7 +49,7 @@
 -  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 70-480: Programming in HTML5 with JavaScript and CSS370-480: Programming in HTML5 with JavaScript and CSS3 
  ... more in my linkedin : https://www.linkedin.com/in/frotaadriano/
 
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frotaadriano)](https://github.com/frotaadriano/github-readme-stats&theme=radical)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frotaadriano&show_icons=true&theme=radical)
    
 <!---
 frotaadriano/frotaadriano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
