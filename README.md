@@ -52,7 +52,7 @@
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frotaadriano&show_icons=true&theme=radical)
 
 
-   [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=frotaadriano&theme=radical)](https://github.com/frotaadriano/github-readme-stats)
+   [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=frotaadriano)](https://github.com/frotaadriano/github-readme-stats&theme=radical)
 
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frotaadriano&hide_progress=true&theme=radical)
 <!---
