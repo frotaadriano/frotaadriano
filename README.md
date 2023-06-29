@@ -48,6 +48,9 @@
 -  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ AZ-900: Microsoft Azure FundamentalsAZ-900 - Microsoft Azure Fundamentals 
 -  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 70-480: Programming in HTML5 with JavaScript and CSS370-480: Programming in HTML5 with JavaScript and CSS3 
  ... more in my linkedin : https://www.linkedin.com/in/frotaadriano/
+
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+   
 <!---
 frotaadriano/frotaadriano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
