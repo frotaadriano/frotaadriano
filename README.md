@@ -15,7 +15,7 @@
  
  🎙️ English: B2+
 
- 💼 More than 14 years of experience in companies: 
+ 💼 More than 16 years of experience in companies: 
 -  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ International IT Services and IT Consulting
 -  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ International Education 
 -  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ Broadcast Media Production and Distribution
@@ -24,15 +24,15 @@
 -  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ Factoring 
  
  🛠️ Skills 
--  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 04+ years Technical leadership
--  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 03+ years Managing teams 
--  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 08+ years C#, NET and .NET Core
--  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 12+ years relational databases 
--  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 04+ years NoSql databases 
+-  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 06+ years Technical leadership
+-  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 05+ years Managing teams 
+-  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 09+ years C#, NET and .NET Core
+-  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 13+ years relational databases 
+-  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 05+ years NoSql databases 
 -  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 02+ years React / Angular
--  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 02+ years AWS ( SQS, SNS, S3 ) 
+-  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 03+ years AWS ( SQS, SNS, S3 ) 
 -  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 02+ years Nodejs
--  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 01- years Python
+-  󠁝 󠀠󠀠󠀠󠀠󠀠󠀠󠀠󠀠‍ ➾ 02+ years Python
 
  Experience in a lot of tools, methodologies, concepts, strategies and patterns 
  Like Jira, Confluence, Azure Devops, Jenkins, GiT, Scrum, kambam, Clean code, Design Patterns, Event-driven etc
